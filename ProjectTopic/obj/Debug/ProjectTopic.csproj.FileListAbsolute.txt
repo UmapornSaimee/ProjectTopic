@@ -1,0 +1,12 @@
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\bin\Debug\ProjectTopic.exe.config
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\bin\Debug\ProjectTopic.exe
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\bin\Debug\ProjectTopic.pdb
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.Form1.resources
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.Properties.Resources.resources
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.csproj.GenerateResource.Cache
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.exe
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.pdb
+C:\Users\U S E R\Desktop\LabBenz\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\โค้ดรวม\ProjectTopic\ProjectTopic\bin\Debug\ProjectTopic.exe.config
+C:\Users\USER\Desktop\โค้ดรวม\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.exe
+C:\Users\USER\Desktop\โค้ดรวม\ProjectTopic\ProjectTopic\obj\Debug\ProjectTopic.pdb
